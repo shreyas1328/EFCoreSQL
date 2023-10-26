@@ -1,0 +1,14 @@
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/bin/Debug/net6.0/EFCoreStart.Data.deps.json
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/bin/Debug/net6.0/EFCoreStart.Data.dll
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/bin/Debug/net6.0/EFCoreStart.Data.pdb
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/obj/Debug/net6.0/EFCoreStart.Data.csproj.AssemblyReference.cache
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/obj/Debug/net6.0/EFCoreStart.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/obj/Debug/net6.0/EFCoreStart.Data.AssemblyInfoInputs.cache
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/obj/Debug/net6.0/EFCoreStart.Data.AssemblyInfo.cs
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/obj/Debug/net6.0/EFCoreStart.Data.csproj.CoreCompileInputs.cache
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/obj/Debug/net6.0/EFCoreStart.Data.dll
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/obj/Debug/net6.0/refint/EFCoreStart.Data.dll
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/obj/Debug/net6.0/EFCoreStart.Data.pdb
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/obj/Debug/net6.0/ref/EFCoreStart.Data.dll
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/bin/Debug/net6.0/EFCoreStart.Data.runtimeconfig.json
+/Users/shreyas/Projects/EFCoreStart/EFCoreStart.Data/obj/Debug/net6.0/EFCoreStart.Data.genruntimeconfig.cache
